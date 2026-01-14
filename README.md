@@ -1,7 +1,10 @@
 Blinkit Dashboard 
 Excel project
+
 📌 Objective
+
 To analyze Blinkit’s sales data using an interactive Excel dashboard in order to track key performance metrics, identify top-performing products and outlets, and support data-driven business decisions.
+
 💡Key Insights 
 💰 $1.20M total sales with strong overall performance
 🏬 Medium-sized outlets generate the highest sales
