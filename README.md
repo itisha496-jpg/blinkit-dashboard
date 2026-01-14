@@ -20,4 +20,5 @@ To analyze Blinkit’s sales data using an interactive Excel dashboard in order 
 * 🎨 Dashboard Design – Visual storytelling for insights
 
   📊 Dashboard Preview
+<img width="1146" height="602" alt="Screenshot 2026-01-14 001141" src="https://github.com/user-attachments/assets/87ee6be0-897c-4779-b923-b9306554bff5" />
 
