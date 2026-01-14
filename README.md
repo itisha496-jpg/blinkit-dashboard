@@ -1,12 +1,12 @@
 **********🛒Blinkit Dashboard**********
 
-Excel project
+**Excel project**
 
-📌 Objective
+**📌 Objective**
 
 To analyze Blinkit’s sales data using an interactive Excel dashboard in order to track key performance metrics, identify top-performing products and outlets, and support data-driven business decisions.
 
-💡 Key Insights
+**💡 Key Insights**
 
 * 💰 $1.20M total sales with strong overall performance
 * 🏬 Medium-sized outlets generate the highest sales
@@ -16,7 +16,7 @@ To analyze Blinkit’s sales data using an interactive Excel dashboard in order 
 * ⭐ Supermarket Type 1 is the best-performing outlet
 
 
-🧰 **Tools & Techniques Used (In Short):**
+**🧰 Tools & Techniques Used**
 
 * 📊 Microsoft Excel– Data analysis and dashboard creation
 * 🔄 Data Cleaning & Formatting – Removing errors and inconsistencies
@@ -25,10 +25,10 @@ To analyze Blinkit’s sales data using an interactive Excel dashboard in order 
 * 📐 Excel Formulas & Functions – Calculations and KPIs
 * 🎨 Dashboard Design – Visual storytelling for insights
 
-  📊 Dashboard Preview
+  **📊 Dashboard Preview**
 <img width="1146" height="602" alt="Screenshot 2026-01-14 001141" src="https://github.com/user-attachments/assets/87ee6be0-897c-4779-b923-b9306554bff5" />
 
-📁 Dataset Overview 
+**📁 Dataset Overview**
 
 * 🛒 Sales data of Blinkit outlets and products
 * 📦 Includes Item Type, Fat Content, Sales, Ratings
@@ -36,7 +36,7 @@ To analyze Blinkit’s sales data using an interactive Excel dashboard in order 
 * 📅 Year of Outlet Establishment
 * 🔢 Used to analyze sales performance and trends
 
-  🚀 Project Learnings 
+  **🚀 Project Learnings**
 
 * 📊 Gained hands-on experience in Excel dashboard creation
 * 🔍 Learned data cleaning and preprocessing techniques
